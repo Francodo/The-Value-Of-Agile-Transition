@@ -2,7 +2,7 @@
 
 Francis Odo
 
-This project is about the transformation of WorldVisitz Mobile Application traditional approach to Agile Delivery methodology.
+This project is about the transformation of WorldVisitz Mobile Application traditional development approach to Agile Delivery methodology.
 
 Details About WorldVisitz
 
